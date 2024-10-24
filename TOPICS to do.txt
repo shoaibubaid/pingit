@@ -1,0 +1,7 @@
+TOPICS to do:
+
+1. Design a chat system where a server listens on a port and a client (when given with this port) can communicate with this server and send and receive messages
+
+2. use select and epoll in the server side to use it for multiple clients
+
+3. now design a system where multiple clients can communicate with each other by sending and receiving messages. you can use client to server to client method.
